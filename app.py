@@ -10,17 +10,22 @@ FOOD_DB = {
         "Ragi (1/4 cup cooked)": {"cal": 110, "iron": 0.90},
         "Cheese Slice (1 pc)": {"cal": 80, "iron": 0.0},
     },
+    "Snacks & Breakfast": {
+        "Almond Butter Toast w/ Berry": {"cal": 186, "iron": 1.58},
+        "Banana (1 medium)": {"cal": 105, "iron": 0.30},
+        "Apple (1 medium)": {"cal": 95, "iron": 0.20},
+    },
     "Legumes (1/4 cup cooked)": {
         "Yellow Moong Dal": {"cal": 45, "iron": 0.80},
         "Green Moong Dal": {"cal": 53, "iron": 0.71},
         "Rajma (Kidney Beans)": {"cal": 53, "iron": 0.95},
         "Chickpeas (Chole)": {"cal": 67, "iron": 1.18},
     },
-    "Fruits & Veggies": {
-        "Green Peas (1/4 cup)": {"cal": 31, "iron": 0.30},
+    "Fruits & Veggies (1/4 cup portion)": {
+        "Strawberries (individual)": {"cal": 13, "iron": 0.17},  # Added Individual
+        "Blueberries (individual)": {"cal": 21, "iron": 0.10},   # Added Individual
+        "Green Peas": {"cal": 31, "iron": 0.30},
         "Broccoli (1/2 cup)": {"cal": 15, "iron": 0.35},
-        "Banana (1 medium)": {"cal": 105, "iron": 0.30},
-        "Apple (1 medium)": {"cal": 95, "iron": 0.20},
     }
 }
 
