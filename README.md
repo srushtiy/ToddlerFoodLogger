@@ -9,21 +9,30 @@ Use code with caution.
 
 2. Run the App
 Save the code provided in our conversation as app.py and run:
+
 bash
 streamlit run app.py
+
+
 Use code with caution.
 
 📋 Features
 Custom Food Database: Pre-loaded with toddler favorites like Dosa, Ragi, Rajma, Chickpeas, and Yellow Moong Dal.
 Real-time Calculations: Instantly calculates total calories and iron (mg) as you adjust portions.
+
 Visual Progress: A dynamic progress bar tracks the daily 7mg iron goal.
+
+
 Portion Guide: A built-in sidebar guide translates "cups" into "visual objects" (e.g., 1/4 cup = a golf ball).
 Data Logging: Save daily totals to a "History" tab and export them to a CSV/Excel file for your pediatrician.
+
+
 🥗 Nutritional Targets
 The app is calibrated to standard pediatric guidelines for an 18-month-old:
 Iron: 7 mg / day.
 Calories: 1,000 – 1,400 kcal / day.
 Milk Limit: 16 oz / day (to prevent calcium from blocking iron absorption).
+
 🛠️ Customization
 To add more foods, simply locate the FOOD_DB dictionary in the code and add a new entry:
 python
